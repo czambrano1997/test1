@@ -1,16 +1,17 @@
-# test1
+# Mi App Flutter (2025)  
 
-A new Flutter project.
+🚀 Proyecto desarrollado en Flutter para [explicar el propósito de la app].  
 
-## Getting Started
+## 📦 Instalación  
+1. Clona el repositorio:  
+   ```bash
+   git clone https://github.com/tu-usuario/mi_app_flutter.git
 
-This project is a starting point for a Flutter application.
+2. Instala dependencias:
+   ```bash
+   flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+3. Ejecuta la app:
+   ```bash
+   flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
