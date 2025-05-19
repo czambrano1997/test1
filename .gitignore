@@ -1,0 +1,32 @@
+# Flutter & Dart
+**/android/
+**/ios/
+**/web/
+**/linux/
+**/windows/
+**/macos/
+**/build/
+**/.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/GeneratedPluginRegistrant.java
+
+# Config files
+**/local.properties
+**/gradle-wrapper.jar
+**/gradle.properties
+
+# IDE (VSCode, Android Studio)
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Archivos de entorno (API Keys, secrets)
+.env
+.env.*
+*.env
